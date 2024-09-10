@@ -1,4 +1,4 @@
-# Squad Marvin (TPA)
+# Squad Marvin (The Paranoid Android)
 
 Este repositório se dedica ao projeto Rescue me encubado no Ânima Lab Hub.
 
